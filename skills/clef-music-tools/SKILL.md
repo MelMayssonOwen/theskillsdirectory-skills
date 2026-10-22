@@ -4,13 +4,13 @@ description: Practice note reading and solve common chord or guitar-tab question
 version: 1.0.0
 last_updated: 2026-10-22
 compatible_agents:
-  testedcodex
-    - claude
+  tested:
+    - codex
   untested:
     - copilot
     - cursor
+    - vscode
     - claude
-    - codex
 categories:
   - education
 job_roles:
