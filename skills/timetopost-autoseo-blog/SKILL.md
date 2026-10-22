@@ -5,12 +5,12 @@ version: 1.0.0
 last_updated: 2026-10-22
 compatible_agents:
   tested:
-    - claude
+    - codex
   untested:
     - copilot
     - cursor
     - vscode
-    - codex
+    - claude
 categories:
   - marketing
 job_roles:
